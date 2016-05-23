@@ -1,0 +1,14 @@
+layout_spectrum: 0.2209106
+typography_spectrum: 0.7166948
+color:
+  saturation: 0.5623946
+  lightness: 0.3853288
+  brandStrength: 0.2233439
+  brandColors:
+    - '#030A14'
+    - '#DF9952'
+    - '#FEF596'
+    - '#7E3F36'
+    - '#CE662E'
+  rhythmicContrast: 0.7554806
+name: silo
